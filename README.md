@@ -2,6 +2,8 @@
 
 This repository contains my solution for the Backend Engineering Internship Case Study.
 
+**📄 [Click Here to View the Case Study Document (Part 1, 2, & 3)](https://docs.google.com/document/d/1uG44KOU58s5pUZm8kD3_88PJ-8sjcaoaNABCAlEOcZI/edit?usp=sharing)**
+
 ## Structure
 
 * **part1_debugging.py**: Corrected API endpoint for product creation. 
@@ -15,6 +17,6 @@ This repository contains my solution for the Backend Engineering Internship Case
 
 ## Assumptions
 Key assumptions made during design:
-1.  **Sales Activity:** Assumed a `last_sold_at` column exists on products to identify "dead stock."
+1.  **Sales Activity:** Assumed (created) a `last_sold_at` column exists on products to identify "dead stock."
 
 2.  **Currency:** Defaulted to USD for all prices.
